@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
-import models.Specialite;
+import beans.Specialite;
 import service.SpecialiteService;
 
 @WebServlet("/specialite")

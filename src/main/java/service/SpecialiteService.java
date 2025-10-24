@@ -3,7 +3,7 @@ package service;
 
 
 import dao.SpecialiteDao;
-import models.Specialite;
+import beans.Specialite;
 import java.util.List;
 
 public class SpecialiteService {

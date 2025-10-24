@@ -1,7 +1,7 @@
 package dao;
 
 
-import models.Specialite;
+import beans.Specialite;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
